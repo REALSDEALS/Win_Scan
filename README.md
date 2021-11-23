@@ -26,6 +26,8 @@ What this batch script does is run the /sfc scannow command, to scan/check your 
 In that case you can try to run the DISM Command.
 _(There will be a future implementation of that command in a external batch script. When made I'll link it down here.)_
 
+- https://github.com/REALSDEALS/pcHealth 
+
 ## Why should I run the command?
 
 As stated as above, you can check your Windows Image...
