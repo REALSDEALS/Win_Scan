@@ -8,13 +8,14 @@ If you want to do that, fork this main project.
 
 Licensed: (GNU-3) REALSDEALS ©
 
-### Quick Sidenote: (Status: Not Yet Finished)
+### Quick Sidenote: (Status: Finished)
 Win_Scan (this repository) has been implemented in my other repository which is somewhat more advanced.
 Please check that one out: https://github.com/REALSDEALS/pcHealth 
 Status will change when the pcHealth repo has completely been finished and build.
 
 That one allows you to run more commands through a simple menu.
 It can scan for corrupt files, make a battery report, try and repair any malfunctions in your Windows Installation ect.
+
 P.S. I don't say that everyone corrupt Windows installation will be fixed with this, but it's always worth a shot!
 
 ## How to use
