@@ -1,8 +1,10 @@
 @echo off
 color 03
+echo.
 echo Win Scan is now running, this can take a hot minute!
 echo Keep in mind that you have to run this executable in administrator mode.
-echo Licensed: Open For Use (GNU-3) REALSDEALS - 2021 ©
+echo Licensed: Open For Use (GNU-3) REALSDEALS - 2021-2022 ©
+echo.
 pause
 echo Going to check for corrupt Windows files.
 cd /
